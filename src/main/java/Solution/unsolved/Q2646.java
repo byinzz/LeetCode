@@ -1,4 +1,4 @@
-package unsolved;
+package Solution.unsolved;
 
 /**
  * @Author: Byin

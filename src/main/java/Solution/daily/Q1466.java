@@ -1,4 +1,4 @@
-package daily;
+package Solution.daily;
 
 import java.util.ArrayList;
 import java.util.List;
