@@ -1,0 +1,15 @@
+# 忽略编译生成的文件
+/target/
+/bin/
+/build/
+
+# 忽略依赖库
+/lib/
+
+# 忽略IDE生成的文件
+/.idea/
+/.vscode/
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
