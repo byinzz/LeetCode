@@ -2,6 +2,7 @@
 /target/
 /bin/
 /build/
+/out
 
 # 忽略依赖库
 /lib/
@@ -9,6 +10,7 @@
 # 忽略IDE生成的文件
 /.idea/
 /.vscode/
+*.iml
 
 # 忽略操作系统生成的文件
 .DS_Store
